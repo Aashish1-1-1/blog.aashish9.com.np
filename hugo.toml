@@ -6,4 +6,10 @@ theme = "PaperMod"
 [params]
   defaultTheme = "light"
   disableThemeToggle = false
-
+  
+  [params.homeInfoParams]
+  Title = "🌀 Aashish Thoughts"
+  Content = "I write once in a blue moon"
+  
+  [params.assets]
+    customCSS = ["css/custom.css"]
