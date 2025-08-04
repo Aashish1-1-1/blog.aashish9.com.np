@@ -1,0 +1,9 @@
+baseURL = 'https://blog.aashish9.com.np'
+languageCode = 'en-us'
+title = 'Blogs'
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "light"
+  disableThemeToggle = false
+
