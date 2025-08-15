@@ -8,7 +8,7 @@ draft: false
 
 ## History
 
-let's start from history how was back there programming like ofc i am not talking from my experience i am talking by taking reference from book [programming ground up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) , computer only understand zeros and ones so it was quite a work considering today an era of programming by natural language. I have divided history of language in certain era described below.
+let's start from history how was programming back then,ofc I am not talking from my experience I am talking by taking reference from book [programming ground up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) , computer only understand zeros and ones so it was quite a work considering today an era of programming by natural language. I have divided history of language in certain era described below.
 
 ### Era of Machine Code
 
