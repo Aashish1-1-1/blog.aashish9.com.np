@@ -4,7 +4,7 @@ date: 2025-09-21
 draft: false
 ---
 
-## What is tread?
+## What is thread?
 
 lightweight process
 
